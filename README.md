@@ -1,0 +1,1 @@
+# side-img-sticky-when-scroll-demo-pure-css-dd
